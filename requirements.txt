@@ -1,0 +1,14 @@
+pandas==2.2.2
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+defusedxml 
+langchain_community
+faiss_cpu
+langchain_google_genai
+pypdf
+langchain-pinecone
