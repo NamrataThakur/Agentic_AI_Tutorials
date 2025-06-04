@@ -12,3 +12,12 @@ faiss_cpu
 langchain_google_genai
 pypdf
 langchain-pinecone
+beautifulsoup4
+langchain-unstructured
+unstructured-client
+unstructured
+unstructured[pdf]
+python-magic
+arxiv
+pymupdf
+wikipedia
