@@ -21,3 +21,11 @@ python-magic
 arxiv
 pymupdf
 wikipedia
+weaviate-client
+langchain_weaviate
+youtube_search
+langgraph
+chromadb
+langchain-chroma
+yfinance
+duckduckgo_search
