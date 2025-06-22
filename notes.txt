@@ -1,0 +1,5 @@
+pip install chromadb protobuf==3.20.3
+
+Chroma has an issue with Python 3.11, need to use Python 3.10
+
+https://docs.google.com/forms/d/e/1FAIpQLSdcJhzbSB-faAwb5DwoZegMaKLd1NlaNICBjpJBqEFhFO2fvg/viewform
